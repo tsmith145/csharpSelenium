@@ -177,3 +177,4 @@ C:\Users\Mjrlo\OneDrive\Documents\CSharp Selenium\seleniumTimothy_test\obj\Debug
 C:\Users\Mjrlo\OneDrive\Documents\CSharp Selenium\seleniumTimothy_test\obj\Debug\net9.0\seleniumTimothy_test.genruntimeconfig.cache
 C:\Users\Mjrlo\OneDrive\Documents\CSharp Selenium\seleniumTimothy_test\obj\Debug\net9.0\ref\seleniumTimothy_test.dll
 C:\Users\Mjrlo\OneDrive\Documents\CSharp Selenium\seleniumTimothy_test\bin\Debug\net9.0\SeleniumExtras.PageObjects.dll
+C:\Users\Mjrlo\OneDrive\Documents\CSharp Selenium\seleniumTimothy_test\obj\Debug\net9.0\seleniumTimothy_test.sourcelink.json
